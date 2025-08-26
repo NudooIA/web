@@ -234,7 +234,7 @@ const Hero = () => {
                 repeatType: "reverse"
               }}
             >
-              Transform your business with{' '}
+              Nudoo transform your business with{' '}
               <span className="bg-gradient-to-r from-white via-[#60a5fa] to-[#3b82f6] bg-clip-text text-transparent">
                 AI Agents
               </span>
